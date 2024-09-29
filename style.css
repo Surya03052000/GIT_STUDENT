@@ -1,0 +1,13 @@
+.box{
+    border: 1px solid black;
+    margin: auto auto;
+    background-color: rgb(87, 80, 80);
+    width: 200px;
+    height: 100px;
+    text-align: center;
+}
+span{
+    color: white;
+    font-family: 'Times New Roman', Times, serif;
+    letter-spacing: 5px;
+}
